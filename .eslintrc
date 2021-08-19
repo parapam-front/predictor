@@ -13,7 +13,8 @@
     "linebreak-style": "off",
     "no-tabs": "off",
     "no-mixed-spaces-and-tabs": "off",
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "max-len": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
